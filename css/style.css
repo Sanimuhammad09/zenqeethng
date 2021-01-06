@@ -400,9 +400,9 @@ button.btn-secondary:hover{
 	margin-bottom: 0px;
 }
 .portfolio-main .card .card-body .card-title a{
-	font-size: 20px;
-	font-weight: 400;
-	text-transform: capitalize;
+	font-size: 10px;
+	font-weight: 200;
+	text-transform: lowercase;
 	color: #ffffff;
 	margin: 0;
 }
@@ -1257,11 +1257,12 @@ footer p {
 .portfolio-item .card .card-body h4 a{
 	color: #323232;
 	text-decoration: none;
-	font-size: 22px;
-	text-transform: capitalize;
+	font-size: 18px;
+	text-transform: none;
 }
 .portfolio-item .card .card-body p{
 	margin-bottom: 0px;
+	color: #1273eb;
 }
 .hover-box{
 	position: relative;
